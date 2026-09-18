@@ -44,13 +44,13 @@ def main():
     # =============================================
     # Your code for part 1 under this line and before the print statements
 
-    x = 27
+    x = 27   #this is me reassigning all of the variables
     y = 1
     a = 1.5
     b = 7
     c = -1
 
-    result1 = (3*x - 9*y)/((2*a) * (b - c))
+    result1 = (3*x - 9*y)/((2*a) * (b - c))  #I used a lot of parentheses to make sure everything was clear for the computer
 
     print("Part 1: x =", x)
     print("Part 1: y =", y)
@@ -88,7 +88,7 @@ def main():
     a = 100
     b = 13
 
-    result3 = 100//13
+    result3 = 100//13  #I used the double divider to get a whole integer instead of a float
 
     print("Part 3: a =", a)
     print("Part 3: b =", b)
@@ -99,7 +99,7 @@ def main():
     # Part 4: Modulo
     # =============================================
     # Your code for part 4 under this line and before the print statements
-    result4 = 100 % 13
+    result4 = 100 % 13   #I used the modulo to get a remainder
     print("Part 4: result =", result4)
 
     # End of Part 4 ----------------------
