@@ -52,14 +52,13 @@ c = -1
 
 result1 = (3*x - 9*y)/((2*a) * (b - c))
 
-print("Part 1: x = 27")
-print("Part 1: y = 1")
-print("Part 1: a = 1.5")
-print("Part 1: b = 7")
-print("Part 1: c = -1")
-print("Part 1: result = 3.0")
+print("Part 1: x =", x)
+print("Part 1: y =", y)
+print("Part 1: a =", a)
+print("Part 1: b =", b)
+print("Part 1: c =", c)
+print("Part 1: result =", result1)
 
-print(result1)
 
     # End of Part 1 ----------------------
 
@@ -73,11 +72,10 @@ y = -3
 
 result2 = (x ** 2) * (y ** 4)
 
-print("Part 2: x = 5")
-print("Part 2: y = -3")
-print("Part 2: result = 2025")
+print("Part 2: x =", x)
+print("Part 2: y =", y)
+print("Part 2: result =", result2)
 
-print(result2)
 
     # End of Part 2 ----------------------
 
@@ -92,17 +90,17 @@ b = 13
 
 result3 = 100//13
 
-print("Part 3: a = 100")
-print("Part 3: b = 13")
-print("Part 3: result = 7")
-
-print(result3)
+print("Part 3: a =", a)
+print("Part 3: b =", b)
+print("Part 3: result =", result3)
     # End of Part 3 ----------------------
 
 
     # Part 4: Modulo
     # =============================================
     # Your code for part 4 under this line and before the print statements
+result4 = 100 % 13
+print("Part 4: result =", result4)
 
     # End of Part 4 ----------------------
 
