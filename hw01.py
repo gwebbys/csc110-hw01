@@ -87,6 +87,16 @@ print(result2)
     # =============================================
     # Your code for part 3 under this line and before the print statements
 
+a = 100
+b = 13
+
+result3 = 100//13
+
+print("Part 3: a = 100")
+print("Part 3: b = 13")
+print("Part 3: result = 7")
+
+print(result3)
     # End of Part 3 ----------------------
 
 
